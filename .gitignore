@@ -1,0 +1,14 @@
+.idea/
+Java/
+**/log/
+**/__pycache__/
+**/.pytest_cache
+**/out
+**/.DS_Store
+comparison_exp/
+spotbugs-excludeFilter.xml
+student_exp/
+PullRequests
+spotbugs-includeFilter.xml
+*.zip
+comparison
